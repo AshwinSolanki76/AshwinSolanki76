@@ -9,15 +9,7 @@
 
 [<img align="left" alt="AshwinSolanki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="AshwinSolanki | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-[<img align="left" alt="AshwinSolanki | XDA Developers" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 [<img align="left" alt="AshwinSolanki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="AshwinSolanki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-[<img align="left" alt="AshwinSolanki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -43,10 +35,6 @@
 ### 📊 GitHub Stats:
 ![Ashwin Solanki's github stats](https://github-readme-stats.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-[website]: https://forum.xda-developers.com/member.php?u=5991465
-[linkedin]: https://linkedin.com/in/AshwinSolanki
-[instagram]: https://www.instagram.com/mr.AshwinSolanki/
-[twitter]: https://twitter.com/vibhorchaudhry
-[facebook]: https://www.facebook.com/AshwinSolanki
-[github]: https://github.com/AshwinSolanki
-[telegram]: https://t.me/mrAshwinSolanki
+[linkedin]: https://www.linkedin.com/in/aswin-solanki-9a85b7169/
+[instagram]: https://www.instagram.com/aswinsolanki/
+[twitter]: https://twitter.com/Ashwin_Solanki
