@@ -3,6 +3,8 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
+[![Ashwin Solanki's github stats](https://github-readme-stats.vercel.app/api?username=AshwinSoolanki76)](https://github.com/anuraghazra/github-readme-stats)
+
 # Connect with me:
 
 [<img align="left" alt="AshwinSolanki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
