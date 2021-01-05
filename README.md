@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-[![Ashwin Solanki's github stats](https://github-readme-stats.vercel.app/api?username=AshwinSoolanki76)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AshwinSolanki76)](https://github.com/anuraghazra/github-readme-stats)
 
 # Connect with me:
 
