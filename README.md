@@ -3,6 +3,10 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
+<img src="icon.png" align="right" />
+
+# Awesome README ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AshwinSolanki76)](https://github.com/anuraghazra/github-readme-stats)
 
 # Connect with me:
