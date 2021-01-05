@@ -1,4 +1,4 @@
 Hey There 😎✌
 <br>
-My ![Instagram](Instagram_icon.png =10x10) Account is [Here](https://www.instagram.com/aswinsolanki/)
+My <img src="Instagram_icon.png" alt="drawing" width="20"/> Account is [Here](https://www.instagram.com/aswinsolanki/)
 
