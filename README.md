@@ -24,6 +24,10 @@
 <br />
 <br />
 
+# MY Demo
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSolanki76&layout=compact)](https://github.com/AshwinSolanki76/github-readme-stats)
+
+
 ### 📊 GitHub Stats:
 ![Ashwin Solanki's github stats](https://github-readme-stats-rouge-pi.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
