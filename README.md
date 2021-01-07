@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-# Curently Working on 📈[CurveTracer](https://github.com/AshwinSolanki76/CurveTracer)
+# Curently Working on 📈[CurveTracer](https://github.com/AshwinSolanki76/CurveTracer) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/CurveTracer)](https://github.com/AshwinSolanki76/CurveTracer/blob/main/LICENSE)
 
 # Connect with me:
 
