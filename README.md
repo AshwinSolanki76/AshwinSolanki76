@@ -11,7 +11,7 @@
 
 <br />
 
-### Languages and Tools:
+# Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="Github.png" />
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![Ashwin Solanki's github stats](https://github-readme-stats-rouge-pi.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=AshwinSolanki76)](https://github.com/AshwinSolanki76/github-readme-stats)
