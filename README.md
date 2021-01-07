@@ -9,7 +9,7 @@
 
 [<img align="left" alt="AshwinSolanki | LinkedIn" width="22px" src="Linkedin.png" />][linkedin]
 
-[<img align="left" alt="AshwinSolanki | Twitter" width="25px" src="Twitter.png" />][twitter]
+[<img align="left" alt="AshwinSolanki | Twitter" width="30px" src="Twitter.png" />][twitter]
 
 [<img align="left" alt="AshwinSolanki | Instagram" width="22px" src="Instagram_icon.png" />][instagram]
 
