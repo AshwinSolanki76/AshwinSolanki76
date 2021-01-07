@@ -7,11 +7,7 @@
 
 # Connect with me:
 
-[<img align="left" alt="AshwinSolanki | LinkedIn" width="22px" src="Linkedin.png" />][linkedin]
-
-[<img align="left" alt="AshwinSolanki | Twitter" width="35px" src="Twitter.png" />][twitter]
-
-[<img align="left" alt="AshwinSolanki | Instagram" width="22px" src="Instagram_icon.png" />][instagram]
+[<img align="left" alt="AshwinSolanki | LinkedIn" width="22px" src="Linkedin.png" />][linkedin] [<img align="left" alt="AshwinSolanki | Twitter" width="35px" src="Twitter.png" />][twitter] [<img align="left" alt="AshwinSolanki | Instagram" width="22px" src="Instagram_icon.png" />][instagram]
 
 <br />
 
