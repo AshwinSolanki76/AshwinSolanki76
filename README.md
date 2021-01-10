@@ -1,4 +1,4 @@
-# Hi there, I'm Ashwin Solanki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Ashwin Solanki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![Viewes Counter](https://komarev.com/ghpvc/?username=AshwinSolanki76)
 
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
@@ -23,7 +23,7 @@
 <br />
 
 # 📊 GitHub Stats:
-![Ashwin Solanki's github stats](https://github-readme-stats-rouge-pi.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![Ashwin Solanki's github stats](https://github-readme-stats-psi-sepia.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats-rouge-pi.vercel.app/api/top-langs/?username=AshwinSolanki76)](https://github.com/AshwinSolanki76/github-readme-stats)
 
