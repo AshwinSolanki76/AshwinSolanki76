@@ -25,6 +25,10 @@
 # 📊 GitHub Stats:
 ![Ashwin Solanki's github stats](https://github-readme-stats-psi-sepia.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats-psi-sepia.vercel.app/api/top-langs/?username=AshwinSolanki76)](https://github.com/AshwinSolanki76/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-psi-sepia.vercel.app/api/top-langs/?username=AshwinSolanki76&layout=compact)](https://github.com/AshwinSolanki76/github-readme-stats)
+
+
+
 [linkedin]: https://www.linkedin.com/in/aswin-solanki-9a85b7169/
 [instagram]: https://www.instagram.com/aswinsolanki/
 [twitter]: https://twitter.com/Ashwin__Solanki
