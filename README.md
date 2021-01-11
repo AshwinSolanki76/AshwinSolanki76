@@ -1,11 +1,11 @@
-# Hi there, I'm `Ashwin Solanki` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![Viewes Counter](https://komarev.com/ghpvc/?username=AshwinSolanki76)
+# Hi there, I'm Ashwin Solanki <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![Viewes Counter](https://komarev.com/ghpvc/?username=AshwinSolanki76)
 
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
 # Curently Working on 📉📈[CurveTracer](https://github.com/AshwinSolanki76/CurveTracer) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/CurveTracer)](https://github.com/AshwinSolanki76/CurveTracer/blob/main/LICENSE)
 
-# Check Out my `Github 🖥️Page`<a href="https://ashwinsolanki76.github.io"  target="_blank">Here</a>
+# Check Out my Github 🖥️Page<a href="https://ashwinsolanki76.github.io"  target="_blank">Here</a>
 
 # Connect with me:
 
