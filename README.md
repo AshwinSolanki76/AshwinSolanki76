@@ -3,10 +3,11 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-# Curently Working on 📉📈[CurveTracer](https://github.com/AshwinSolanki76/CurveTracer) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/CurveTracer)](https://github.com/AshwinSolanki76/CurveTracer/blob/main/LICENSE) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/CurveTracer)
+# Curently Working on 📉📈[CurveTracer](https://github.com/AshwinSolanki76/CurveTracer) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/CurveTracer)](https://github.com/AshwinSolanki76/CurveTracer/blob/main/LICENSE) 
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/CurveTracer) -->
 
 # Check Out my Github 🖥️Page<a href="https://ashwinsolanki76.github.io"  target="_blank"> Here</a>
-
+<!-- 
 # Visitors Counts on Every Repo:
 
 ## `AshwinSolanki76` &nbsp; &nbsp; &nbsp; &nbsp;  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/AshwinSolanki76)
@@ -14,7 +15,7 @@
 ## `Stock-Management` &nbsp; &nbsp; &nbsp;  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/Stock-Management)
 ## `Curve Tracer` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/CurveTracer)
 ## `DiscordBot` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/DiscordBot)
-
+ -->
 
 # Connect with me:
 
