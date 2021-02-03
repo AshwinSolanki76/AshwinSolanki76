@@ -37,6 +37,6 @@
 
 
 
-[linkedin]: www.linkedin.com/in/AshwinSolanki99
+[linkedin]: https://www.linkedin.com/in/AshwinSolanki99
 [instagram]: https://www.instagram.com/aswinsolanki/
 [twitter]: https://twitter.com/Ashwin__Solanki
