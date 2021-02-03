@@ -6,7 +6,7 @@
 # Curently Working on 📉📈[CurveTracer](https://github.com/AshwinSolanki76/CurveTracer) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/CurveTracer)](https://github.com/AshwinSolanki76/CurveTracer/blob/main/LICENSE) 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/AshwinSolanki76/CurveTracer) -->
 
-# Check Out my Github 🖥️Page<a href="https://ashwinsolanki76.github.io"  target="_blank"> Here</a>
+# Check Out My Portfolio🖥️ <a href="http://ashwinsolanki.me"  target="_blank"> Here</a>
 <!-- 
 # Visitors Counts on Every Repo:
 
