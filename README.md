@@ -6,7 +6,9 @@
 # Curently Working on 📝[Notes](https://github.com/AshwinSolanki76/Notes) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/CurveTracer)](https://github.com/AshwinSolanki76/Notes/blob/master/LICENSE) 
 
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshwinSolanki76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 
 
