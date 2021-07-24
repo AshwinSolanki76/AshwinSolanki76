@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-# Curently Working on 📝[Teexter](https://github.com/AshwinSolanki76/Teexter) [![GitHub license](https://img.shields.io/github/license/AshwinSolanki76/Teexter)](https://github.com/AshwinSolanki76/Teexter/blob/master/LICENSE) 
+# Curently Working on 📝[Teexter](https://github.com/AshwinSolanki76/GithubCounter) ![Visitors Count](https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&RepoName=GithubCounter&Counter=True)
 
 
 # Connect with me:
