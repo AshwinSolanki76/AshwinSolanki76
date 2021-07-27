@@ -5,7 +5,7 @@
 
 # Curently Working on 📝[GithubCounter](https://github.com/AshwinSolanki76/GithubCounter) 
 ![Visitors Count](https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&RepoName=GithubCounter&Counter=True)
-
+<img src="https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&RepoName=GithubCounter&Counter=True" />
 
 # Connect with me:
 
