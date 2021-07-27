@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: I ❤️ 🐶s & ❤️ 🏍️
 
-# Curently Working on 📝[GithubCounter](https://github.com/AshwinSolanki76/GithubCounter) ![Visitors Count](https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&RepoName=GithubCounter&Counter=False)
+# Curently Working on 📝[GithubCounter](https://github.com/AshwinSolanki76/GithubCounter) ![Visitors Count](https://githubcounter.herokuapp.com/?Username=AshwinSolanki76&Counter=True)
 
 
 # Connect with me:
