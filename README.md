@@ -36,7 +36,7 @@
 
 # My Competitive Coding Profiles
 [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)](https://leetcode.com/AshwinSolanki/)
-[![Hackerrank](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/Aswin_Solanki)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/Aswin_Solanki)
 
 
 # 📊 GitHub Stats:
