@@ -34,11 +34,6 @@
 
 <br/>
 
-# My Competitive Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode)](https://leetcode.com/AshwinSolanki/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-333333?style=flat&logo=hackerrank)](https://www.hackerrank.com/Aswin_Solanki)
-
-
 # 📊 GitHub Stats:
 ![Ashwin Solanki's github stats](https://github-readme-stats-psi-sepia.vercel.app/api?username=AshwinSolanki76&show_icons=true&theme=dracula&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats-psi-sepia.vercel.app/api/top-langs/?username=AshwinSolanki76&layout=compact)](https://github.com/AshwinSolanki76/github-readme-stats)
 
